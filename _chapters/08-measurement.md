@@ -1,7 +1,6 @@
 ---
 title: "Measurement"
 chapter_number: "08"
-published: false
 ---
 
 # Measurement
