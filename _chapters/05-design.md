@@ -244,8 +244,6 @@ If there is enough time, you can create your own icon set. We use _Nucleo_ for o
 
 {% include qa.html question="What is a style guide and why do I need one?" answer="A style guide is a type of template that contains colors, fonts and commonly used interface elements, which will standardize the look and feel of the whole product. It helps to keep a consistent visual style across all screens and devices and during the whole design process. It is especially useful on multi-designer projects, where every team member is responsible for a different part of the product." %}
 
-{% include qa.html question="Why do you want to know the business model?" answer="A style guide is a type of template that contains colors, fonts, and commonly used interface elements, which will standardize the look and feel of the whole product. It helps to keep a consistent visual style across all screens and devices and during the whole design process. It is especially useful in multi-designer projects, where every team member is responsible for a different part of the product." %}
-
 {% include qa.html question="What kind of feedback would you like me to give?" answer="Designers always try to deliver solutions that serve both the user and the business itself – you can try to check if the designs serve the business objectives and fit the industry. Remember that the aesthetics are often a matter of personal taste, and your esthetics might not converge on the universal esthetics for your product’s potential users." %}
 
 **Questions to ask yourself at this stage**
