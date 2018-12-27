@@ -14,6 +14,7 @@
   },
   "scripts": {
     "start": "vuepress dev",
-    "build": "vuepress build"
+    "build": "vuepress build",
+    "deploy": "./deploy.sh"
   }
 }
