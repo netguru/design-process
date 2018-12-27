@@ -1,0 +1,19 @@
+{
+  "name": "design-process",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:netguru/design-process.git",
+  "author": "michalsnik <msajnog93@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^0.14.8"
+  },
+  "dependencies": {
+    "vue-svg-loader": "^0.11.0",
+    "vuepress-theme-live-ebook": "1.0.0"
+  },
+  "scripts": {
+    "start": "vuepress dev",
+    "build": "vuepress build"
+  }
+}
