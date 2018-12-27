@@ -16,6 +16,6 @@ git init
 git add -A
 git commit -m 'deploy'
 
-git push -f git@github.com:netguru/design-process.git vuepress:gh-pages
+git push -f git@github.com:netguru/design-process.git master:gh-pages
 
 cd -
