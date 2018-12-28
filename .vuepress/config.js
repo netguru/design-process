@@ -2,7 +2,7 @@ module.exports = {
   title: 'Design Process For Pros',
   description: 'Live E-Book with useful informations about Design Process',
   theme: 'live-ebook',
-  base: process.env.NODE === 'production' ? '/design-process/' : '/',
+  base: process.env.NODE_ENV === 'production' ? '/design-process/' : '/',
   themeConfig: {
     baseUrl: 'https://design-process.netguru.co',
     exitUrl: 'https://www.netguru.co/design-process',
