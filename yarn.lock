@@ -7303,9 +7303,9 @@ vuepress-html-webpack-plugin@^3.2.0:
     util.promisify "1.0.0"
 
 vuepress-theme-live-ebook@^1.0.0:
-  version "1.0.5"
-  resolved "https://registry.yarnpkg.com/vuepress-theme-live-ebook/-/vuepress-theme-live-ebook-1.0.5.tgz#2d478d311699709c51f365ada5cefe6b2ed8ab76"
-  integrity sha512-21Lgr6IfOVa/LWaRQxIIUNGb+/t2heIg0PeBCN/FVsjSETHOc+vmwoFBirVUroZ4EndHj5OUOC/v8Aqw/IWw/w==
+  version "1.0.6"
+  resolved "https://registry.yarnpkg.com/vuepress-theme-live-ebook/-/vuepress-theme-live-ebook-1.0.6.tgz#37778773e151fdc4ebc349356e304207979f7459"
+  integrity sha512-WGSqGeU45vC142WLty0CzFaqYKwzz5wdSkieZ33TPYILZpBw1MuKVOCNVEeY0KpqR/aesn/Sc4vtdU/TZ8cmZQ==
   dependencies:
     markdown-it "^8.4.2"
     vue "^2.5.16"
