@@ -3,6 +3,10 @@ module.exports = {
   description: 'Live E-Book with useful informations about Design Process',
   theme: 'live-ebook',
   base: process.env.NODE_ENV === 'production' ? '/design-process/' : '/',
+  head: [
+    ['link', { rel: 'icon', href: '/images/favicon.ico' }]
+  ],
+  
   themeConfig: {
     baseUrl: 'https://design-process.netguru.co',
     exitUrl: 'https://www.netguru.co/design-process',
