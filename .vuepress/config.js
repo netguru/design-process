@@ -8,6 +8,7 @@ module.exports = {
   ],
   
   themeConfig: {
+    baseUrl: 'https://design-process.netguru.co',
     exitUrl: 'https://www.netguru.co/design-process',
     company: {
       name: 'Netguru',
