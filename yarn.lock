@@ -7302,10 +7302,10 @@ vuepress-html-webpack-plugin@^3.2.0:
     toposort "^1.0.0"
     util.promisify "1.0.0"
 
-vuepress-theme-live-ebook@1.0.0:
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/vuepress-theme-live-ebook/-/vuepress-theme-live-ebook-1.0.0.tgz#5cfa184517a3214a61d7e8f84fe8985b5ea9e393"
-  integrity sha512-fjRl+nOQCYgOhyos5vpPoKQ5NgfMSSSco8KWFrlukRNjHDRk9q5uSG+wHXdif4zXOl3HFj4zq09ll0sxel8ajw==
+vuepress-theme-live-ebook@^1.0.0:
+  version "1.0.2"
+  resolved "https://registry.yarnpkg.com/vuepress-theme-live-ebook/-/vuepress-theme-live-ebook-1.0.2.tgz#fe0dd959579de5fccd9ccd9faa9be045cca24d5d"
+  integrity sha512-sDSnfWN5iw51iI/aBQ6G5SWz2whmVzih92V0c4B4gIkT6/fP//04luZEB6/Tjh2omfKVnTk2CpKpHUcjF0iBiQ==
   dependencies:
     markdown-it "^8.4.2"
     vue "^2.5.16"
