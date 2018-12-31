@@ -55,7 +55,7 @@ Key Performance Indicators, also known as KPIs, are quantifiable measurements th
             Create a document with list of all KPIs that you want to track,
             this list is called Measurement Plan (see example <a
               href="https://docs.google.com/document/d/18I1hr8s8WafMUXkismoh6pObSoB-2MuxBoycO3rWzJE/edit#heading=h.o6o8gag6ilc3"
-              target="_blank">here</a>).
+              target="_blank" rel="noreferrer">here</a>).
             Different products require different KPIs, for example, on landing
             page it’s good when users spend more time on them (better
             engagement) whereas in SaaS product, where users are task oriented,
