@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "vue-svg-loader": "^0.11.0",
-    "vuepress-theme-live-ebook": "^1.0.0"
+    "vuepress-theme-live-ebook": "^1.1.0"
   },
   "scripts": {
     "start": "vuepress dev",
