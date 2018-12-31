@@ -2,6 +2,13 @@
 layout: chapter
 title: "Project introduction & setup"
 chapter_number: "01"
+meta:
+  - name: description
+    content: In this chapter you will learn how to prepare for the first meeting with client as an actual beginning of a design process. Build a relationship with client as professional designer.
+  - property: og:description
+    content: In this chapter you will learn how to prepare for the first meeting with client as an actual beginning of a design process. Build a relationship with client as professional designer.
+  - property: twitter:description
+    content: In this chapter you will learn how to prepare for the first meeting with client as an actual beginning of a design process. Build a relationship with client as professional designer.
 ---
 
 # Project introduction & setup

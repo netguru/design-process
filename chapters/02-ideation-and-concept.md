@@ -2,6 +2,13 @@
 layout: chapter
 title: "Ideation and Concept"
 chapter_number: "02"
+meta:
+  - name: description
+    content: In this section you wil learn what ideation is and when to conduct it, as well as how to explain it's importance to a client. You will also learn about concept phase.
+  - property: og:description
+    content: In this section you wil learn what ideation is and when to conduct it, as well as how to explain it's importance to a client. You will also learn about concept phase.
+  - property: twitter:description
+    content: In this section you wil learn what ideation is and when to conduct it, as well as how to explain it's importance to a client. You will also learn about concept phase.
 ---
 
 # Ideation and Concept
