@@ -2,13 +2,7 @@
 layout: chapter
 title: "Testing"
 chapter_number: "04"
-meta:
-  - name: description
-    content: Testing is important part of design process. You will learn when to test wireframes and designs and what tests should be used in specific situations.
-  - property: og:description
-    content: Testing is important part of design process. You will learn when to test wireframes and designs and what tests should be used in specific situations.
-  - property: twitter:description
-    content: Testing is important part of design process. You will learn when to test wireframes and designs and what tests should be used in specific situations.
+description: Testing is important part of design process. You will learn when to test wireframes and designs and what tests should be used in specific situations.
 ---
 
 # Testing

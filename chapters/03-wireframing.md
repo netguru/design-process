@@ -2,13 +2,7 @@
 layout: chapter
 title: "Wireframing"
 chapter_number: "03"
-meta:
-  - name: description
-    content: Learn the definition of wireframing and the things a client should understand. Learn what element should be included in a wireframe and learn best practices.
-  - property: og:description
-    content: Learn the definition of wireframing and the things a client should understand. Learn what element should be included in a wireframe and learn best practices.
-  - property: twitter:description
-    content: Learn the definition of wireframing and the things a client should understand. Learn what element should be included in a wireframe and learn best practices.
+description: Learn the definition of wireframing and the things a client should understand. Learn what element should be included in a wireframe and learn best practices.
 ---
 
 # Wireframing
