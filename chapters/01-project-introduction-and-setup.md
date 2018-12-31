@@ -100,7 +100,7 @@ Make sure that all answers are documented and available for other team members â
 - Does the client understand the role of a designer?
 
 #### Milestones & priorities
-- Make sure that the client has a reasonable approach to the creation of an [MVP](https://www.netguru.co/blog/first-a-definition-the-minimum-viable-product-is) (keep the scope small).
+- Make sure that the client has a reasonable approach to the creation of an [MVP](https://en.wikipedia.org/wiki/Minimum_viable_product) (keep the scope small).
 - Make the client aware of the importance of going step-by-step in terms of functionalities.
 
 #### Why is it important to sell the outcomes of your work?
