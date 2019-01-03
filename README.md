@@ -40,25 +40,25 @@ If have those installed, make sure you have write access to the repository. You 
 
 1. Open Github App, and find the repository to clone:
 
-![Clone repository](docs_assets/gh-clone.png)
+<img src="docs_assets/gh-clone.png" width="450" alt="Clone repository">
 
 2. Click on the current branch, to open branch navigation:
 
-![Open branch navigation](docs_assets/gh-new-branch.png)
+<img src="docs_assets/gh-new-branch.png" width="450" alt="Open branch navigation">
 
 3. Create new branch:
 
-![Create new branch](docs_assets/gh-branch.png)
+<img src="docs_assets/gh-branch.png" width="450" alt="Create new branch">
 
 4. Now you can open your editor and edit source files.
 
 5. Once you're done editing, go back to Github App and commit your changes:
 
-![Commit changes](docs_assets/gh-commit.png)
+<img src="docs_assets/gh-commit.png" width="450" alt="Commit changes">
 
 6. After your changes are locally commited, you can publish your branch:
 
-![Publish](docs_assets/gh-publish.png)
+<img src="docs_assets/gh-publish.png" width="300" alt="Publish">
 
 7. Since work should be collaborative, now you should create Pull Request on github.
 
