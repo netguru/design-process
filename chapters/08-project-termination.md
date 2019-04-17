@@ -1,7 +1,7 @@
 ---
 layout: chapter
 title: "Project termination"
-chapter_number: "07"
+chapter_number: "08"
 description: Final state of design process is project termination. You will learn where to put source files and store assets, how to ensure your project team are safe, when to recommend product checkups and how to make sure your project passes the peer review.
 ---
 

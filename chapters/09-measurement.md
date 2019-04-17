@@ -1,7 +1,7 @@
 ---
 layout: chapter
 title: "Measurement"
-chapter_number: "08"
+chapter_number: "09"
 published: false
 ---
 

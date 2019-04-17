@@ -1,7 +1,7 @@
 ---
 layout: chapter
 title: "Ideation and Concept"
-chapter_number: "02"
+chapter_number: "03"
 description: In this section you wil learn what ideation is and when to conduct it, as well as how to explain it's importance to a client. You will also learn about concept phase.
 ---
 

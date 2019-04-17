@@ -1,7 +1,7 @@
 ---
 layout: chapter
 title: "Implementation recommendations"
-chapter_number: "06"
+chapter_number: "07"
 description: Implementation recommendations include way to prepare assets for a project on specific devices, how to properly name those assets, the way to answer questions that clients might ask and how to talk with developers.
 ---
 

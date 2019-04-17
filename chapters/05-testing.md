@@ -1,7 +1,7 @@
 ---
 layout: chapter
 title: "Testing"
-chapter_number: "04"
+chapter_number: "05"
 description: Testing is important part of design process. You will learn when to test wireframes and designs and what tests should be used in specific situations.
 ---
 

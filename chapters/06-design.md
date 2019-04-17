@@ -1,7 +1,7 @@
 ---
 layout: chapter
 title: "Design"
-chapter_number: "05"
+chapter_number: "06"
 description: Design process means to give a function and solve a problem with a set of available resources. In this chapter you will learn where to look for inspiration, about specific design states and some tips and best practices for designing and working in teams.
 ---
 
