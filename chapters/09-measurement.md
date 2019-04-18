@@ -2,7 +2,7 @@
 layout: chapter
 title: "Measurement"
 chapter_number: "09"
-published: false
+published: true
 ---
 
 # Measurement
@@ -44,7 +44,7 @@ Key Performance Indicators, also known as KPIs, are quantifiable measurements th
 
 <BaseImage img="measurement.png" alt="Process overview" />
 
-<table class="dp-table">
+<table class="dp-table numbered">
   <tbody>
     <tr>
       <td>1</td>
