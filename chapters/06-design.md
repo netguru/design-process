@@ -8,7 +8,7 @@ description: Design process means to give a function and solve a problem with a 
 # Design
 
 ## Introduction
-**In this section, you will learn:**
+**In this section, you will learn**
 - Where to look for inspiration
 - How to collect inspirations and prepare moodboards
 - How to prepare style guides

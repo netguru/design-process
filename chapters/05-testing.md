@@ -230,7 +230,7 @@ Beta testing is mostly done by developers and is especially useful for mobile ap
 - Don’t try to capture your insights (write them down, talk to yourself, etc.) while testing on real users – it makes them nervous.
 - You don’t want to bias your users during the test. You want to see how they figure out things for themselves, or how they don’t figure them out. In real life, you wouldn’t sit next to them while they would be using your product.
 
-## Questions your client can ask
+## Questions your client may ask
 <BaseQA
   question="Why do I need testing?"
   answer="Above all, you need it to minimize the risk of exposing bugs to real users in real scenarios. Also, the iterative nature of the Agile Scrum methodology helps to improve the weak points of the product in every sprint. Testing will detect those weak points."

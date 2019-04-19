@@ -14,7 +14,7 @@ Research takes time and can cost money, but in the grand scheme of things it wil
 ## When to run research
 When the product is new.
 When there is a lack of understanding of the business model, product value, market and users in the existing product.
-After gathering as many insights as possible from the client during the first Strategy Stage during which you asked specific questions. The sample questions are listed in <a href="01-project-introduction-and-setup.html#introduction">Chapter 1.</a>.
+After gathering as many insights as possible from the client during the first Strategy Stage during which you asked specific questions. The sample questions are listed in <a href="01-project-introduction-and-setup.html#introduction">Chapter 1</a>.
 When you want to verify if your solution meets the user’s needs.
 
 ## How to run research
@@ -22,7 +22,7 @@ At this stage you run through the research methods on which you agreed with the 
 
 ### Research methods
 
-<table class="dp-table">
+<table class="dp-table discovery">
   <tbody>
     <tr>
       <td>A/B testing</td>

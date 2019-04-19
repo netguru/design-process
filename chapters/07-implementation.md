@@ -8,7 +8,7 @@ description: Implementation include way to prepare assets for a project on speci
 # Implementation
 
 ## Introduction
-**In this section you can learn:**
+**In this section you can learn**
 - How to prepare assets for a project on specific devices.
 - How to properly name assets.
 - How to answer questions that clients ask most frequently.
@@ -112,7 +112,7 @@ Be sure that App icons and App store Assets will be in accordance with the App S
   answer="Guide the client to where you store the assets (e.g. Jira tickets with assets attached or links to assets on Google Drive)."
 />
 
-### Questions to ask yourself at this stage:
+### Questions to ask yourself at this stage
 
 - Has the naming of my assets been discussed and agreed with the developers?
 - Is my naming convention consistent?

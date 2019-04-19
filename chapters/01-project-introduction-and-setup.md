@@ -5,12 +5,12 @@ chapter_number: "01"
 description: In this chapter you will learn how to prepare for the first meeting with client as an actual beginning of a design process. Build a relationship with client as professional designer.
 ---
 
-# Project introduction & setup
+# Project introduction <br/> & setup
 
 ## Introduction
 Your work starts much earlier than the moment you pick up a pen and paper. Preparing for the first meeting with the client marks the actual beginning of the design process. By being prepared and professional during the first meeting, you start building a relationship. The reward for your professionalism will be big: the client’s trust in your decisions is at stake here.
 
-**In this section you can learn:**
+**In this section you can learn**
 - What the first contact with a client looks like.
 - What questions you should ask.
 - Communication tips: how to talk to a client.
@@ -179,7 +179,7 @@ Sometimes, very direct questions won’t work as we want.
 
 Since everything is trackable, speak about the exact points you’re going to track. Identify the client’s KPIs (Key Performance Indicators). Good KPIs take into account the business context, predict success, show early warning signals, and validate achieved results. You can use these materials to create [tailor-made KPIs](https://bscdesigner.com/kpi-system-example.htm). For example, these could range from new signups to the number of customers using Paypal vs. purchases with credit cards. Always make sure you know how high you’re aiming for at the start. Sometimes it can be challenging to analyse. Read more here - [12 Steps System for the Most Challenging Metrics and KPIs](https://bscdesigner.com/kpi-system.htm). Make sure that all answers are documented and available for other (current & future) team members.
 
-### Questions your client can ask
+### Questions your client may ask
 
 <BaseQA
   question="Why do you have to know this stuff before we meet?"
@@ -191,7 +191,7 @@ Since everything is trackable, speak about the exact points you’re going to tr
   answer="This will allow us to work within the proper constraints and tailor the proper design solutions."
 />
 
-### Questions to ask yourself at this stage:
+### Questions to ask yourself at this stage
 - Have I asked all the necessary questions?
 - Do I have all the necessary answers?
 - Is the project card created?
@@ -210,7 +210,7 @@ Since everything is trackable, speak about the exact points you’re going to tr
 - Identifying the restrictions
 
 ## Communication tips
-### General rules:
+### General rules
 - Be active, not passive – recommend solutions.
 - Listen to the client’s expectations, don’t be afraid to ask questions.
 - Consult your solutions with the developers from day one.
@@ -223,7 +223,7 @@ Since everything is trackable, speak about the exact points you’re going to tr
 - Make sure that you will have an opportunity to present your solutions to all stakeholders.
 - Make sure that the client knows that we don’t work on the basis of a fixed number of reviews but rather in a constant feedback-and-iteration mode.
 
-### Previous experience:
+### Previous experience
 - Has the client worked with designers before?
     - If not, try to educate the client on the best practices and basic principles of design during your meetings.
     - If yes, what are the client’s experiences of working with designers?
@@ -237,7 +237,7 @@ Since everything is trackable, speak about the exact points you’re going to tr
 - By selling yourself or your work well, you gain the client’s trust in your decision.
 - When you hesitate or don’t know the “whys” behind your design decision, you scare clients off.
 
-### Must-haves when communicating with a client:
+### Must-haves when communicating with a client
 - Know the benefits and outcomes of your work.
 - Gain the client’s trust – they will care about your opinions.
 - Your client’s future often depends on you, your decisions, and your work. Everything you do serves to convince them that their business is in good hands.

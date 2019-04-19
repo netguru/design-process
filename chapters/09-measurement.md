@@ -8,7 +8,7 @@ published: false
 # Measurement
 
 ## Introduction
-**In this section you can learn:**
+**In this section you can learn**
 - Why do we measure - benefits for us and clients
 - What is KPI and examples for various projects
 - What tools to use

@@ -8,7 +8,7 @@ description: Learn the definition of wireframing and the things a client should 
 # Wireframing
 
 ## Introduction
-**In this section you will learn:**
+**In this section you will learn**
 - The definition of wireframing and the things a client should understand.
 - What elements to include in a wireframe.
 - Best practices – DOs and DON’Ts of wireframing.
@@ -20,13 +20,13 @@ description: Learn the definition of wireframing and the things a client should 
 
 As Product Designers, we should never skip the wireframing stage. The wireframing stage is the bridge between researching and designing visuals. It lets us test-drive ideas and iterate quickly from early on in the project. Not only does it save us a lot of time that would have otherwise been wasted on neverending adjustments, but it also makes our process more robust, our vision clearer and our rationale more valid. As a result, the final design becomes truly meaningful and valuable to the client. The outcome of this phase is usually a set of user flows and wireframes.
 
-### Benefits of wireframing for the client:
+### Benefits of wireframing for the client
 - Allows for fast prototyping.
 - Allows clients to test ideas early.
 - Allows us to eliminate errors and problems early.
 - The client will know their product, users’ needs and behavioral patterns better.
 
-### Benefits for the team:
+### Benefits for the team
 - Wireframes will often help to discover new requirements and questions that may not have been considered by the project team.
 - Developers will know how the website/application will work before designers provide them with final designs.
 - Opportunity to gather feedback and test how the product will work before proceeding to the design phase.

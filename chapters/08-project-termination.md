@@ -68,7 +68,7 @@ Create a Q&A session with your project team: Developers, PM, and QAs. We advise 
   answer="Yes. You can get links to the source files."
 />
 
-### Questions to ask yourself at this stage:
+### Questions to ask yourself at this stage
 - Did I check the termination checklist?
 - Are the relevant files uploaded and available to developers?
 - If the project has been released and development has been completed – have I archived the InVision project?
