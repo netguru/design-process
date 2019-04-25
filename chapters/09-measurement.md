@@ -1,14 +1,14 @@
 ---
 layout: chapter
 title: "Measurement"
-chapter_number: "08"
+chapter_number: "09"
 published: false
 ---
 
 # Measurement
 
 ## Introduction
-**In this section you can learn:**
+**In this section you can learn**
 - Why do we measure - benefits for us and clients
 - What is KPI and examples for various projects
 - What tools to use
@@ -44,7 +44,7 @@ Key Performance Indicators, also known as KPIs, are quantifiable measurements th
 
 <BaseImage img="measurement.png" alt="Process overview" />
 
-<table class="dp-table">
+<table class="dp-table numbered">
   <tbody>
     <tr>
       <td>1</td>

@@ -1,7 +1,7 @@
 ---
 layout: chapter
 title: "Project termination"
-chapter_number: "07"
+chapter_number: "08"
 description: Final state of design process is project termination. You will learn where to put source files and store assets, how to ensure your project team are safe, when to recommend product checkups and how to make sure your project passes the peer review.
 ---
 
@@ -68,7 +68,7 @@ Create a Q&A session with your project team: Developers, PM, and QAs. We advise 
   answer="Yes. You can get links to the source files."
 />
 
-### Questions to ask yourself at this stage:
+### Questions to ask yourself at this stage
 - Did I check the termination checklist?
 - Are the relevant files uploaded and available to developers?
 - If the project has been released and development has been completed – have I archived the InVision project?

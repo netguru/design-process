@@ -5,110 +5,239 @@ chapter_number: "01"
 description: In this chapter you will learn how to prepare for the first meeting with client as an actual beginning of a design process. Build a relationship with client as professional designer.
 ---
 
-# Project introduction & setup
+# Project introduction <br/> & setup
 
 ## Introduction
-Your work begins much earlier than the moment you pick up a pen and paper. Preparing for the first meeting with the client marks the actual beginning of a design process. By being prepared and professional during the first call, you start building a relationship. The reward for your professionalism will be big: the client’s trust in your decisions is at stake here.
+Your work starts much earlier than the moment you pick up a pen and paper. Preparing for the first meeting with the client marks the actual beginning of the design process. By being prepared and professional during the first meeting, you start building a relationship. The reward for your professionalism will be big: the client’s trust in your decisions is at stake here.
 
-**In this section you can learn:**
-- What questions to ask a client before and during the first meeting.
+**In this section you can learn**
+- What the first contact with a client looks like.
+- What questions you should ask.
 - Communication tips: how to talk to a client.
 - How to setup Google Drive/InVision asset folders.
 - Questions most frequently asked by clients.
 
-**Stakeholders**
-- Client
-- Designer(s)
-- Business Development Representative
-- Project Manager
-- Developer(s)
+## First contact with the client
+### Introduction
+The first contact with a client can occur in two situations:
+- **first** - you are participating in the first meeting with a client which is related to the pre-sales activities or
+- **second** - you’ve just joined a new project and have to start contributing
 
-## Kick-off meeting checklist
-### Before the first meeting with the client:
-Together with the Project Manager, organize a meeting and collect all the project info. Ask the PM, BD, and devs – don’t make the client answer the same question twice. Things you need to know:
-- Does the client have a working product?
-    - If yes, consider a [UX Review](https://www.netguru.co/services/ux-review) first.
-- Does the project have a clear scope?
-    - Y/N (at this stage, the project should already have a scope; otherwise, you need to run a Scoping Session)
-- Is the project idea ready to be turned into a design?
-    - At Netguru, we conduct a [Product Design Sprints](https://www.netguru.co/services/product-design-sprint) to help our clients flesh out their ideas.
-- What platform will it be designed for?
-- In the case of web design: will it be responsive?
-- Will it be developed by our team?
+### So how to start?
+**Prepare.** Remember to manage your preparation in correlation with the issue at hand. Gather all materials and documentation; try to dig deeper within the subject to avoid asking questions which were already asked.
 
-### First meeting – explaining process to the client:
-- **Educate the client**
-    - Product design is a process. The process includes iterations that will result in the improvements of the product or service. The final iteration is complete when the client's goals and the users' goals are achieved.
-    - Design is about how things work, not only about how they look.
-Educate the client about your role and your expectations. Establish the boundaries and expectations at the beginning.
-Useful links:
-        - [What To Expect From a Designer](https://www.netguru.co/blog/what-expect-designer)
-        - [What You Pay For When You're Hiring a Designer](https://www.netguru.co/blog/hiring-designers)
-        - [8 Ways to Establish and Maintain a Successful Client-Designer Relationship](https://www.netguru.co/blog/8-ways-to-establish-and-maintain-a-successful-client-designer-relationship)
-- **Avoid multi-platform designs at the early stages of the project**
-If the client needs a multi-platform design, ask another designer for help. If you believe that the scope is big enough, always suggest a design team. Learn more from: [Why a Team Approach Is the Key to Successful Product Design](https://www.netguru.co/blog/why-a-team-approach-is-the-key-to-successful-product-design)
-- **Emphasize that it’s impossible to predict users’ behavior accurately**
-We rely on research and available data – the validity of a solution can only be assessed with relevant tests.
-- **We cannot guarantee a business success**
-Try to make it clear that even the best product design does not guarantee a product’s success in terms of revenue.
-- **Give a quick overview of all the Product Design phases**
+**Do due diligence:** First, study the client. Specifically, find out who the client is (company-wise and, if you know the other person’s name, check the role or background of your interlocutor). Read about the company, read documentation – conduct some initial desk research. Do not spend too much time on it – an hour should be more than enough.
 
-### First meeting – get some info from the client:
-**General info**
-- What is your deadline? (design/release date)
-- What will make the application a success in your opinion?
-- What will make our work a success in your eyes?
-- Have you collected any user feedback yet?
+**The first impression:** Look and act professionally – at least smile & be positive. It is a bit of a truism, but we have to highlight this – there’s only one chance to make the first impression and please do remember that you are acting on a company’s behalf.
+
+**If the meetings are not face to face:** Use the right place for the call – quiet, comfy, with no disturbers. Please use your camera (pro tip: do not show your chin and nose from the bottom 🐽 ;)
+
+**Start on time:** Always start your meeting on time. Again, this goes hand in hand with showing your preparedness and professionalism.
+
+**Have an agenda of key points:** Keep the client on track. Prepare an agenda for the meeting. The client will appreciate the efficiency with which you handle this first meeting and all subsequent engagements, communications, and projects. Keeping yourself on track keeps the client on track. Generally, clients tend to sit down and start telling you the story of their lives. Of course, the more information you get the better, but maintain control of what is important and what is not. You don’t need to cut your client’s story short, but when you see them drifting away from the main subject you need to get them back on track.
+
+**Manage the client's expectations:** Managing the client’s expectations is critical. When you prepare for your meeting, review all the main subjects to be discussed with the client. Identify the areas where potential risks or troubles might arise. Second, set appropriate boundaries regarding what your client should expect from our services. Your preparation before the meeting allows you to offer a rough estimate of what it might cost the client to engage our services.
+When you manage the client’s expectations there is a greater likelihood that when things don’t come out completely in his or her favour, the client will not be surprised. This will preserve and strengthen the bond of trust between you and the client. Try to be on point and answer questions directly. A lot of newbies have a tendency to speak more than the customer, but that's not the way it's supposed to be. Focus on asking the right question, then listen carefully. It should be a ratio of 80% for the customer and 20% for you (more or less).
+
+**Give the client action items and follow-up:** After your meeting, write an update and send it to the client, summarizing the key subjects touched upon in the meeting. The notes are mainly for you, so only write down the essentials – we suggest bullet points to elaborate later (if necessary). It is essential that you keep the client up-to-date regarding any progress or issues you encounter along the way. Agree on next steps and what needs to happen in order for us to start the project together.
+In addition, thank the client for taking the time to meet you and reassure them that you will be in touch if any issues or alternatives come up; encourage two-way communication.
+
+– As mentioned above, be prepared and learn about the client as much as possible from existing sources. It will pay off – we promise!
+
+### Who are the clients?
+There are 3 types of clients, classified by their willingness to talk:
+1. **People who don’t speak** – because you may inadvertently guide these kinds of clients through the questions in such a way that you answer them yourself, there is a real possibility that you will miss out on the details, background thinking, motivation and the main aim of the project. The best way to optimise interactions with such clients is asking “why?” questions as much as possible. ([see the 5 whys method](https://en.wikipedia.org/wiki/5_Whys) )
+2. **People who speak on the subject** – the easiest group to manage, just listen, ask the questions, write down the answers, and gather all the requirements in the most efficient way.
+3. **People who talk about everything** – it can be exciting to hear loads of stories and anecdotes, but the efficiency of that kind of meeting is really low. However, it is a great opportunity to get familiar with the client and build a nice relationship. It is essential to capture the necessary thoughts, moderate the conversation according to the agenda, and show in a subtle way that the purpose of the meeting is professional rather than social. One of the best remedies is to allow the client to say whatever they want to – just to capture all the requirements, even if you do so from between the lines.
+
+### Tools
+#### Do not make assumptions – ask questions!
+
+Ask what they want, but also question the status quo – be focused on providing consultancy and **expertise value** rather than selling the solution they asked for directly. Do not talk too much – let them speak. Gathering the knowledge is the essential and ultimate goal of your meeting, so we’d love to illustrate this issue with a real-life example:
+
+<BaseQuote
+  text="A client came to us to redesign their website. They liked our style, seen our portfolio (Dribbble and Behance profile). During the meeting, we identified that the low conversion is not caused only by poor design, but all the funnels are not identified and not clear – there’s no structured way of presenting content to the users. Products within the existing website are mixed and the users are not defined. That was the outcome of the meeting – we've been trying to find the perfect solution for the client and his users, so after understanding the client’s JPG (Jobs, Pains, Gains) and comparing them with users’ JPG we proposed to split the content between 3 different dedicated landing pages, optimising the content and conversion funnels. Moreover, we proposed to develop the website. As a result, the client appreciated our approach, saved time, and achieved their KPIs."
+/>
+
+#### Consultative & Solution Selling Principles
+**What is consultative selling?**
+
+The consultative sales process is primarily focused on the experience that the potential customer (the opp) feels and sees during their interactions with you. It’s about how you find ways to provide your leads with value and make it all about them. Not your product, your business, your numbers. The consultative sales process is most especially not about you.
+
+Sometimes this is also referred to as solution-based selling.
+Solution selling is a sales methodology. Rather than just promoting an existing product, the salesperson focuses on the customer's pain(s) and addresses the issue with his or her offerings [products and services](http://en.wikipedia.org/wiki/Solution_selling).
+
+Generally speaking, the initial conversation with the client might begin by saying something like this:
+**_Hi client, I was notified that you reach out to us regarding a mobile app redesign. Great! What were you looking for help with?_**
+
+The emphasis is on what the potential customer **wants and needs**, not what you want and need from the potential customer.
+
+To describe this in more practical terms, you should follow the 5 principles of the consultative sales process:
+1. **Research** – As mentioned above, be prepared and learn about the client as much as possible from existing sources. It will pay off – we promise!
+2. **Ask** – Ask questions that start with the words Who, What, Where, How, Why, and When. Avoid starting questions with words like Do, Are, You, and Can. These types of questions tend to lead to yes or no answers, which is exactly the sort of response you most want to avoid.
+3. **Listen.**
+4. **Teach** – As you are actively listening, you need to be responding, and as you respond, you should look for opportunities to teach. But note that this is not about teaching your clients about our product or service. It’s about helping the client learn to overcome their challenges and build a plan to reach their goals. Teaching should be done by asking the right questions to the customer, so she/he subconsciously thinks “it actually makes sense to work with them, now I understand it”. It's not forcing them to work with us, it's making them understand why it's worth working with us. This may or may not involve using our product or service. Your focus should be to help the client, no matter what. Also note that you must be careful not to give away too much knowledge. You must balance the knowledge you give with the questions you ask and the answers you get back.
+5. **Qualify** – After investigating your client, now it’s the moment to make a decision about the cooperation. It’s not just the client that’s making a decision here. You should also consider if he fits your company’s work and philosophy and if you are able to offer the solutions to your potential client’s needs.
+
+These 5 principles should provide a basic outline of the consultative and solution sales methodology which definitely helps in the initial contact with the client.
+
+### Summary
+-The most important thing you need to remember, not only for your first successful meeting with a client, but for any stage and project in your career, is to trust yourself. Confidence is something you need to practice; with practice, you will get better. Make sure you build it in a way that when you look back you laugh out loud and say, “That was fun!  Let’s do it again!”
+
+
+## Strategy questions
+Before the first meeting with the client, provide a list of questions via email. Ask them to answer the questions and send you back a file with the answers. Inform them that thanks to being familiar with the answers we can prepare for the meeting. Both sides will be aware of what is unknown and what should be clarified. This will not only speed up the conversation, but make it more concrete and structured.
+
+### List of questions
+#### General info
+You should start with general questions. By starting from this point you make it clear what your cooperation will look like. You have to make sure everyone on both sides understands what you agreed on. Below you can find some example questions to ask.
+
+Time & money
+- What is the indicative schedule?
+- What is the basic scope of work?
+- What is the indicative budget?
+
+Client’s goals and motivations
+- Why are you here? What is your motivation for change?
+- What are your jobs/responsibilities?
+- What are your pains?
+
+Company details
+- Are you a mature company or a founder?
+- Who are the main contact persons?
+- Who are the stakeholders?
+
+Client’s assumptions
+- What are your assumptions?
+- What in your opinion will make the product a success?
+- How do the goals of this project fit into your long-term goals?
+
+Tools
 - Can you grant us access to your analytics tools?
-- Are there any similar products or alternative solutions to the same problem? What are your potential customers doing today instead of using your future product?
+- What can be automated, outsourced?
+- How do you test new features/ideas?
 
-#### Questions specific to UX Review:
-- On the call, try to establish the scope of the review:
-    - The narrower, the better – a more focused scope is superior.
-    - Try to get to know the client’s requirements and expectations for the review.
-    - Try to get to know what user journeys are key to the client.
-    - In a perfect scenario, narrow down the scope to just one.
-- After the call, discuss the client’s requirements within the team and ask the team about possible blockers.
+#### Business
+After gathering insight to the general questions, you can move on to more specific ones. For the client, his/her business is the most important. Because of that, start from business-related questions.
 
-#### Visual:
-- Do you have a branding, brand book, brand guidelines?
-    - If not, give a heads-up about the importance of those in the later phases.
-- If the client wants to use corporate fonts in the UI, be sure they own a web/mobile licence.
-- If you suggest an alternative paid font for the UI, be sure that the client is open to buying a licence.
-- Does the client have any benchmarks or a visual style in mind?
-- Does the client have the source files for the old designs?
+Money
+- What is the main selling point?
+- What is the money making funnel?
+- How do you want to fund your business in the future?
 
-Make sure that all answers are documented and available for other team members – both current and future.
+Business model
+- What is the business model?
+- What is the business strategy?
+
+Business goal
+- What are the business goals to accomplish?
+- What is the main business short-term objective?
+- What are KPIs/goals you’d like to achieve?
+
+#### Market
+No company is an island. Every industry exists in some ecosystem. Because of that, you should get to know as many things about your client’s competitors as you can. It is also your job to educate the client about the importance of running market research.
+
+- Did you run market research?
+- Do you have a niche? What is it?
+- Are there any similar product offerings, alternative solutions to the same problem? What are your users doing today instead of using your product?
+
+Other requirements/law restrictions
+- What country (or region) is the product to be launched in?
+- What language is the product to be designed in?
+- Are there any special requirements regarding the market that should be considered (ex. cultural, religious limitations)?
+
+#### Product
+Now, after gathering general insights, as well as business- and market -related ones, you can finally move ON to the questions that are directly related to the product or service that you are about to work on. Remember that the product/service must both satisfy the business and user goals because only by doing so will you build value.
+
+- Do you have a working product?
+- What is your product’s value proposition?
+- What other touchpoints are valid for you?
+
+#### User
+Finally, the understanding that the product is for the client’s users and not for him/her directly is the key to building a product that will fit real people’s needs. Answering the user-related questions is difficult because it requires a lot of empathy.
+
+<BaseQuote
+author="Strelau, Doliński"
+  text="Empathy means moving yourself into the world of another person - thinking, feeling and acting like her. The emergence of true empathy requires advanced forms of cognitive development, enabling the identification of one's emotional state and state of another person."
+/>
+
+- Did you run user research?
+- Who are the users?
+- What are their jobs, pains, and gains?
+
+#### Visual
+Visual-related questions are crucial for you. You basically should not start the UI design without asking this basic question because by doing so you would risk doing inadequate work.
+
+- Do you have a branding, brand book, brand guides, design system, patterns, style guide?
+- Do you have a corporate identity?
+- Do you have any benchmarks/inspirations/visual style in mind?
+
+Sometimes, very direct questions won’t work as we want.
+- Be smart in your client’s interview, ask about the things that seem to be important for him/her.
+- Be sure to set clear goals of what you want to achieve.
+- It's highly recommended to review the [Business Model Canvas](https://upload.wikimedia.org/wikipedia/commons/1/10/Business_Model_Canvas.png). It’s not a clear example of which questions to ask, but it shows very important and basic fields related to business and product. You can treat it like an inspiration to collect your thoughts.
+
+Since everything is trackable, speak about the exact points you’re going to track. Identify the client’s KPIs (Key Performance Indicators). Good KPIs take into account the business context, predict success, show early warning signals, and validate achieved results. You can use these materials to create [tailor-made KPIs](https://bscdesigner.com/kpi-system-example.htm). For example, these could range from new signups to the number of customers using Paypal vs. purchases with credit cards. Always make sure you know how high you’re aiming for at the start. Sometimes it can be challenging to analyse. Read more here - [12 Steps System for the Most Challenging Metrics and KPIs](https://bscdesigner.com/kpi-system.htm). Make sure that all answers are documented and available for other (current & future) team members.
+
+### Questions your client may ask
+
+<BaseQA
+  question="Why do you have to know this stuff before we meet?"
+  answer="This will allow us to prepare better and have a more focused meeting."
+/>
+
+<BaseQA
+  question="Why do you want to know the business model?"
+  answer="This will allow us to work within the proper constraints and tailor the proper design solutions."
+/>
+
+### Questions to ask yourself at this stage
+- Have I asked all the necessary questions?
+- Do I have all the necessary answers?
+- Is the project card created?
+- Is the project structure created on Google Drive and linked to the project card?
+- Is all project info gathered in one place and is accessible to everyone?
+- Was the process explained to the client?
+
+### Output
+- Identifying the business’s goals
+- Identifying the client's needs, pains, and expectations
+- Identifying the end user
+- Identifying the end user’s needs, goals, pains, and gains
+- Identifying the end user’s jobs
+- Identifying the client’s competitors, their jobs, their value proposition and innovation
+- Identifying the project challenges
+- Identifying the restrictions
 
 ## Communication tips
-#### General rules:
+### General rules
 - Be active, not passive – recommend solutions.
 - Listen to the client’s expectations, don’t be afraid to ask questions.
 - Consult your solutions with the developers from day one.
 - Make sure you explain to the client how to use communication tools e.g. comments in [InVision](https://support.invisionapp.com/hc/en-us/articles/209192426-How-do-I-comment-on-a-prototype-); explain the difference between [tour-points](https://support.invisionapp.com/hc/en-us/articles/204183549) and comments
 
-#### Feedback
+### Feedback
 - Does the client have enough time to give you feedback? If not, try to ask which active stakeholders can actively participate in the communication.
 - Make the client aware of the value of an active and collaborative approach (feedback, communication).
 - Make sure that there is only one final point of feedback on the client’s part.
 - Make sure that you will have an opportunity to present your solutions to all stakeholders.
 - Make sure that the client knows that we don’t work on the basis of a fixed number of reviews but rather in a constant feedback-and-iteration mode.
 
-#### Previous experience:
+### Previous experience
 - Has the client worked with designers before?
     - If not, try to educate the client on the best practices and basic principles of design during your meetings.
     - If yes, what are the client’s experiences of working with designers?
 - Does the client understand the role of a designer?
 
-#### Milestones & priorities
+### Milestones & priorities
 - Make sure that the client has a reasonable approach to the creation of an [MVP](https://en.wikipedia.org/wiki/Minimum_viable_product) (keep the scope small).
 - Make the client aware of the importance of going step-by-step in terms of functionalities.
 
-#### Why is it important to sell the outcomes of your work?
+### Why is it important to sell the outcomes of your work?
 - By selling yourself or your work well, you gain the client’s trust in your decision.
 - When you hesitate or don’t know the “whys” behind your design decision, you scare clients off.
 
-#### Must-haves when communicating with a client:
+### Must-haves when communicating with a client
 - Know the benefits and outcomes of your work.
 - Gain the client’s trust – they will care about your opinions.
 - Your client’s future often depends on you, your decisions, and your work. Everything you do serves to convince them that their business is in good hands.
@@ -123,41 +252,33 @@ Make sure that all answers are documented and available for other team members �
 - It’s much better to present a small number of excellent arguments than flood the client with dozens of mediocre ones.
 - Adjust your language – don’t use jargon.
 
-## Gathering feedback
-We use InVision at Netguru as the main tool for gathering feedback on each iteration and for keeping all comments in one place. [Check out how it works.](https://www.youtube.com/watch?v=J09zw08ihw4) We also have a dedicated process to get more precise feedback from other designers within our team.
+## Explaining the design process
+### The most important aspects
+- **Educate the client**
+    - Product design is a process. The process includes iterations that will result in the improvement of the product or service. The final iteration is complete when the client's goals and the users' goals are achieved.
+    - Design is about how things work, not only about how they look. Educate the client about your role and your expectations. Establish the boundaries and expectations at the beginning. Useful links:
+        - [What To Expect From a Designer](https://www.netguru.com/blog/what-expect-designer)
+        - [What You Pay For When You're Hiring a Designer](https://www.netguru.com/blog/hiring-designers)
+        - [8 Ways to Establish and Maintain a Successful Client-Designer Relationship](https://www.netguru.com/blog/8-ways-to-establish-and-maintain-a-successful-client-designer-relationship)
+- **Avoid multi-platform designs at the early stages of the project.** If the client needs a multi-platform design, ask another designer for help. If you believe that the scope is big enough, always suggest a design team. Learn more from: [Why a Team Approach Is the Key to Successful Product Design](https://www.netguru.com/blog/why-a-team-approach-is-the-key-to-successful-product-design)
+- **Emphasize that it’s impossible to predict users’ behavior accurately.** We rely on research and available data – the validity of a solution can only be assessed with relevant tests.
+- **We cannot guarantee business success.** Try to make it clear that even the best product design does not guarantee a product’s success in terms of revenue.
+- **Give a quick overview of all the Product Design phases.**
 
-#### From Teammates
-Remember that if you have any difficulties with your design, you can always ask other designers for feedback. It’s also important to share your solutions with the team before sharing them with the client. With this approach, you can improve your designs, spot bugs or logic issues in your solutions or, alternatively, read people’s praise for you and collect thumbs-ups.
+## Design files organisation
 
-- Just go to your team (use messaging apps or simply talk to them), share a link to your designs and ask for some help, opinions or comments.
-- Ask another designer for a review.
-- If you are not sure whether you can spend more time preparing dedicated designs, ask your PM if you have enough resources/time/money to develop such features.
-
-#### From the client
-Gathering feedback from the client is the key to a successful project.
-- Ask for the feedback you want to receive.
-- Add designs to the project and share a link with the client. The best way to go is to always keep links to your designs in a project management tool, e.g. Jira.
-- Ask whether the client knows how your tools work or just guide the client through the process of adding comments to designs (mentioning a user’s name when adding a comment will send an e-mail notification – recommended).
-- Reply to comments and mark them as resolved.
-- If something is unclear to you or the client, try to explain until everything is crystal clear to both parties.
-- Preparing clickable designs (links between views) will enhance the client’s experience.
-- Stay in touch with the client. Send the client up-to-date links to the designs and give progress updates. Last but not least, ask the client about the feelings and emotions that the design evokes.
-- You get in touch with the client to present your designs. Sometimes, you need to sell your vision or just present the bigger picture behind your designs.
-
-## Design files – organization
 This section presents the way we organize our files and folders by default. Of course, this file structure is only an example, and you might want to organize your files and folders in a way that suits you best.
 
-#### 1. Preparation
-
+### 1. Setup
 When we start a new project, we create a Designer folder in the client’s main folder.
 
 <BaseImage img="image7.png" img2x="Image7@2x.png" alt="Designer folder" />
 
-#### 2. The structure of the Designer folder
+### 2. The structure of the Designer folder
 
 <BaseImage img="image2.png" img2x="Image2@2x.png" alt="Designer folder structure" />
 
-**A. Sources**
+#### 2.1. Sources
 
 <BaseImage img="image3.png" img2x="Image3@2x.png" alt="Sources folders" />
 
@@ -165,16 +286,14 @@ Each folder (_Visual_ and _Wireframes_) contains all source files (.psd, .sketch
 
 <BaseImage img="image1.png" img2x="Image1@2x.png" alt="Source files subfolders" />
 
-Each source file is presented as a preview in the .jpg or .png format.
 
-
-**B. Fonts**
+#### 2.2. Fonts
 
 In this folder, we put all the fonts which we have used in the project, even if they are free. They are grouped by font name. Like so:
 
 <BaseImage img="image5.png" img2x="Image5@2x.png" alt="Fonts folder" />
 
-**C. Assets & Exports**
+#### 2.3. Assets & Exports
 
 This folder contains two subfolders:
 
@@ -182,65 +301,17 @@ This folder contains two subfolders:
 
 *Assets & Exports* is a folder for FrontEnd Developers.
 
-- Assets
+- Assets: _Assets_ contains all additional assets that we couldn’t put in Exports. For example, SVG icons, etc.
+- Exports: In *Exports*, we put all exports from Sketch or Photoshop.
 
-_Assets_ contains all additional assets that we couldn’t put in Exports. For example, SVG icons, etc.
-- Exports
-
-In *Exports*, we put all exports from Sketch or Photoshop.
-
-**D. Images & Icons**
+#### 2.4. Images & Icons
 
 If we have some external images (Shutterstock, etc.) or icon sets, we upload them here.
 
-**E. Documentation**
+#### 2.5. Documentation
 
 IMPORTANT! At the end of a project, we create a list of all screens with URLs to particular screens on the InVisionApp broken down by different platforms, breakpoints, and so on.
 
 In this folder, we upload all documents related to a specific project. Those documents can be personas, user stories, etc.
 
 We also create an _Initial interview_ subfolder, which contains the most important data collected during the initial interview, the materials sent by the client, or scoping session notes related to the design phase relevant to the project.
-
-<BaseImage img="image8.png" img2x="Image8@2x.png" alt="Initial interview folder" />
-
-## Questions your client may ask
-<BaseQA
-  question="Why do you want to know the business model?"
-  answer="This will help us focus on important things and prioritize work."
-/>
-
-<BaseQA
-  question="Why do you have to know this stuff before we meet?"
-  answer="This will allow us to prepare better and have a more focused meeting."
-/>
-
-<BaseQA
-  question="We don’t have: [a business analysis, market research, target customer base]. Can you do this for us?"
-  answer="We can help you with some parts of it."
-/>
-
-### Questions to ask yourself at this stage:
-- Have I asked all the necessary questions?
-- Do I have all the necessary answers?
-- Was all the project info gathered during the first meeting with the client?
-- Has the process been explained to the client?
-- Has the project structure been created?
-- Have InVision prototypes been created for all target platforms?
-
-## Desired outcomes of this stage
-- The project info has been collected.
-    - I know the project requirements and problems we need solve.
-    - I know what will make the project a success.
-    - We understand the client’s business.
-    - We know if the client understands their own business.
-    - I have collected the answers to design- and business-related questions.
-- I have a folder structure set up.
-- I know and have collected all the available materials from the client (including brand guidelines, etc.).
-
-## Additional reading
-- [What You Pay For When You're Hiring a Designer](https://www.netguru.co/blog/hiring-designers)
-- [8 Ways to Establish and Maintain a Successful Client-Designer Relationship](https://www.netguru.co/blog/8-ways-to-establish-and-maintain-a-successful-client-designer-relationship)
-- [How to Talk to Designers About Design: Tips for Non-Designers](https://www.netguru.co/blog/talking-designers-about-design)
-- [What To Expect From a Designer](https://www.netguru.co/blog/what-expect-designer)
-- [Why a Team Approach Is the Key to Successful Product Design](https://www.netguru.co/blog/why-a-team-approach-is-the-key-to-successful-product-design)
-- [How to Choose a Designer – Step by Step Guide](https://www.netguru.co/blog/how-to-choose-a-designer-step-by-step-guide)
