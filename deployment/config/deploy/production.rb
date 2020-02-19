@@ -1,4 +1,4 @@
-server 'internals.production.devguru.co',
+server 'internals-p2.production.devguru.co',
   {
     user: 'deploy',
     roles: %w[web db assets],
