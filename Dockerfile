@@ -1,6 +1,6 @@
 FROM ruby:2.3-alpine
 
-RUN apk add --update nginx build-base libffi-dev nodejs
+RUN apk add --update nginx build-base libffi-dev nodejs npm
 
 ENV APP_HOME '/app'
 RUN mkdir -p $APP_HOME
